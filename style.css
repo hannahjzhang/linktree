@@ -1,87 +1,42 @@
-/* for the profile picture icon */
 .avatar {
   width: 100px;
   height: 100px;
   display: block;
   border-radius: 50%;
-  object-fit: contain;
-  object-position: initial;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* border for the entire page */
 .page-container {
-  /* border to page */
-  margin-left: 12px;
-  margin-right: 12px;
-  margin-top: 24px;
-  margin-bottom: 50px;
-  /* border to content */
-  padding-left: 12px;
-  padding-right: 12px;
-  padding-top: 16px;
-  padding-bottom: 24px;
   background-color: white;
-  font-family: 'Karla', sans-serif;
-  letter-spacing: 1px;
-}
-
-/* contains the prof pic and username */
-.header-container {
-  margin-left: 345px;
-  margin-right: 345px;
-  margin-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 5px;
-  background-color: white;
-  font-size: 14px;
+  min-height: 100vh;
   text-align: center;
-  color: black;
-  align-items: center;
-  justify-content: center;
   font-family: 'Karla', sans-serif;
-  letter-spacing: 1px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.all-link {
+  margin-top: 35px;
 }
 
-/* contains all the links */
-.alllink-container {
-  margin-left: 345px;
-  margin-right: 345px;
-  background-color: white;
-  font-size: 14px;
-  color: black;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Karla', sans-serif;
-  letter-spacing: 1px;
-}
-
-/* contains each specific link */
 .link-container {
-  border-style: solid;
-  border-width: 2px;
-  border-color:  #4F7CFE;
+  display: block;
+  max-width: 676px;
+  margin: 0 auto 15px auto;
+  background-color: #4F7CFE;
   padding-top: 3px;
   padding-bottom: 3px;
-  margin-top: 15px;
-  margin-bottom: 10px;
-  background-color: #4F7CFE;
+  border: 2px solid #4F7CFE;
   color: white;
-  font-family: 'Karla', sans-serif;
-  letter-spacing: 1px;
-  text-align: center;
 }
 
-/* invert colors on hover*/
 .link-container:hover {
   cursor: pointer;
   background-color: white;
   color: #4F7CFE;
 }
-
-/* remove underline on link */
 a:link {
   text-decoration: none;
 }
