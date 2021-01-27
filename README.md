@@ -1,9 +1,7 @@
 # linktree
-Recreating Various [Named Link](https://linktr.ee/ "Linktree") Themes
+Recreating Various <a href="hhttps://linktr.ee/" target="_blank">Linktree</a> Themes
 - - - -
-```
-Description of Each Theme
-```
+Descriptions: <br>
 <details>
   <summary>Moon</summary>
   <p>White background, Blue Boxes</p>
