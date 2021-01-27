@@ -1,3 +1,4 @@
+/* for the profile photo */
 .avatar {
   width: 100px;
   height: 100px;
@@ -7,6 +8,7 @@
   margin-right: auto;
 }
 
+/* around the entire page for borders and general coloring */
 .page-container {
   background-color: white;
   min-height: 100vh;
@@ -17,10 +19,13 @@
   margin-left: 5px;
   margin-right: 5px;
 }
+
+/* around all the links for spacing */
 .all-link {
   margin-top: 35px;
 }
 
+/* around each link */
 .link-container {
   display: block;
   max-width: 676px;
@@ -32,11 +37,14 @@
   color: white;
 }
 
+/* changing color on hover */
 .link-container:hover {
   cursor: pointer;
   background-color: white;
   color: #4F7CFE;
 }
+
+/* removing link underline */
 a:link {
   text-decoration: none;
 }
