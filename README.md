@@ -1,12 +1,9 @@
 # linktree
-Recreating Various <a href="hhttps://linktr.ee/" target="_blank">Linktree</a> Themes
-- - - -
+Recreating Various <a href="https://linktr.ee/" target="_blank">Linktree</a> Themes <br>
 Descriptions: <br>
-<details>
-  <summary>Moon</summary>
-  <p>White background, Blue Boxes</p>
-</details>
-<details>
-  <summary>Leaf</summary>
-  <p>White background, Green Boxes</p>
-</details>
+1. Leaf
+    1. <a href="https://hannahjzhang.github.io/linktree/moon/" target="_blank">Leaf Demo</a>
+    2. White background, blue boxes
+2. Moon
+    1. <a href="https://hannahjzhang.github.io/linktree/leaf/" target="_blank">Moon Demo</a>
+    2. White background, green boxes
