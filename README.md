@@ -6,3 +6,7 @@ Descriptions: <br>
   <summary>Moon</summary>
   <p>White background, Blue Boxes</p>
 </details>
+<details>
+  <summary>Leaf</summary>
+  <p>White background, Green Boxes</p>
+</details>
